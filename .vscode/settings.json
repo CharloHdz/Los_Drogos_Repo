@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Los Drogos Game.sln"
+    "dotnet.defaultSolution": "Los_Drogos_Repo.sln"
 }
